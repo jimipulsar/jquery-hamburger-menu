@@ -27,9 +27,6 @@ header {
   z-index: 10000000000000;
 }
 
-.hamburger p {
-  font-size:14px;
-}
 .cross {
   background: none;
   position: absolute;
